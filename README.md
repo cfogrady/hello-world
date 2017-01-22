@@ -1,4 +1,5 @@
 # hello-world
-Learning Git
 
 Something New
+
+Removed old stuff
